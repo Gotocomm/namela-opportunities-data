@@ -332,59 +332,6 @@
       "link": "https://www.nsfas.org.za",
       "checked": "2026-11-05",
       "added": "2026-11-05"
-    },
-    {
-      "id": "chevening",
-      "title": "Chevening Scholarships",
-      "type": "Scholarship",
-      "cat": [
-        "abroad",
-        "study"
-      ],
-      "who": [
-        "student"
-      ],
-      "by": "UK Foreign, Commonwealth and Development Office",
-      "elig": "Graduates with at least two years’ work experience from eligible countries, including South Africa.",
-      "get": "Fully funded one-year master’s in the UK: fees, living allowance and flights.",
-      "close": "2026-10-06",
-      "diff": "High",
-      "conf": "High",
-      "next": "The 2027/28 round closed on 6 October 2026. The next round is expected to open in August 2027.",
-      "step": "Use the year to choose three UK courses and draft your four essays.",
-      "link": "https://www.chevening.org",
-      "tags": [
-        "value"
-      ],
-      "checked": "2026-11-05",
-      "added": "2026-11-05"
-    },
-    {
-      "id": "mwf",
-      "title": "Mandela Washington Fellowship",
-      "type": "Exchange",
-      "cat": [
-        "abroad"
-      ],
-      "who": [
-        "student",
-        "business",
-        "org"
-      ],
-      "by": "US Department of State",
-      "elig": "Young African leaders aged 25 to 35 (exceptional applicants from 21) living in eligible countries.",
-      "get": "Six-week fully funded leadership institute at a US university.",
-      "close": "2026-10-13",
-      "diff": "High",
-      "conf": "High",
-      "next": "The 2027 round closed on 13 October 2026. Recent rounds have opened in September.",
-      "step": "Build a record of community or business leadership you can describe with results.",
-      "link": "https://www.mandelawashingtonfellowship.org",
-      "tags": [
-        "value"
-      ],
-      "checked": "2026-11-05",
-      "added": "2026-11-05"
     }
   ]
 }
