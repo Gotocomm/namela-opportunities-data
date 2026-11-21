@@ -1,5 +1,5 @@
 {
-  "scanned": "2026-11-05",
+  "scanned": "2026-11-21",
   "items": [
     {
       "id": "funza-returning",
@@ -24,7 +24,7 @@
       "tags": [
         "value"
       ],
-      "checked": "2026-11-05",
+      "checked": "2026-11-21",
       "added": "2026-11-05"
     },
     {
@@ -50,7 +50,7 @@
       "tags": [
         "value"
       ],
-      "checked": "2026-11-05",
+      "checked": "2026-11-21",
       "added": "2026-11-05"
     },
     {
@@ -77,7 +77,7 @@
       "tags": [
         "gem"
       ],
-      "checked": "2026-11-05",
+      "checked": "2026-11-21",
       "added": "2026-11-05"
     },
     {
@@ -103,8 +103,9 @@
       "tags": [
         "value"
       ],
-      "checked": "2026-11-05",
-      "added": "2026-11-05"
+      "checked": "2026-11-21",
+      "added": "2026-11-05",
+      "note": "NYDA does not charge a fee to apply. Ignore anyone offering to guarantee approval for money."
     },
     {
       "id": "nyda-voucher",
@@ -127,7 +128,7 @@
       "tags": [
         "gem"
       ],
-      "checked": "2026-11-05",
+      "checked": "2026-11-21",
       "added": "2026-11-05"
     },
     {
@@ -153,7 +154,7 @@
       "tags": [
         "gem"
       ],
-      "checked": "2026-11-05",
+      "checked": "2026-11-21",
       "added": "2026-11-05"
     },
     {
@@ -176,7 +177,7 @@
       "needs": "CIPC registration, tax compliance, bank statements, a business plan.",
       "step": "Start with business development support at a SEDFA branch to strengthen your application, then apply on the SEDFA website.",
       "link": "https://www.sedfa.org.za",
-      "checked": "2026-11-05",
+      "checked": "2026-11-21",
       "added": "2026-11-05"
     },
     {
@@ -191,7 +192,7 @@
       ],
       "by": "Department of Small Business Development, through SEDFA and the National Empowerment Fund",
       "elig": "South African-owned spaza shops and township retailers.",
-      "get": "Stock, equipment and compliance support through a R500 million fund that combines grants and concessional loans.",
+      "get": "Up to R100 000 for stock, shop upgrades and business training. Funding above R50 000 is half grant and half loan.",
       "rolling": true,
       "diff": "Medium",
       "conf": "High",
@@ -201,7 +202,7 @@
       "tags": [
         "gem"
       ],
-      "checked": "2026-11-05",
+      "checked": "2026-11-21",
       "added": "2026-11-05"
     },
     {
@@ -225,7 +226,7 @@
       "step": "Register on the CSD first; it is free. Then filter the eTender Portal by province and category, and check your municipality’s supply chain notices for smaller quotations.",
       "link": "https://www.etenders.gov.za",
       "note": "Most small contracts are quotations under R1 million advertised by municipalities and provincial departments, not national tenders.",
-      "checked": "2026-11-05",
+      "checked": "2026-11-21",
       "added": "2026-11-05"
     },
     {
@@ -253,7 +254,7 @@
       "tags": [
         "value"
       ],
-      "checked": "2026-11-05",
+      "checked": "2026-11-21",
       "added": "2026-11-05"
     },
     {
@@ -278,7 +279,7 @@
       "step": "Watch stipendiumhungaricum.hu for the 2027/28 call. Check that South Africa is on the partner list and which body nominates South African applicants.",
       "link": "https://stipendiumhungaricum.hu",
       "note": "The 2027/28 call had not been published when we last checked. Dates are based on previous years.",
-      "checked": "2026-11-05",
+      "checked": "2026-11-21",
       "added": "2026-11-05"
     },
     {
@@ -307,7 +308,7 @@
       "tags": [
         "value"
       ],
-      "checked": "2026-11-05",
+      "checked": "2026-11-21",
       "added": "2026-11-05"
     },
     {
@@ -327,10 +328,10 @@
       "close": "2026-10-31",
       "diff": "Medium",
       "conf": "High",
-      "next": "The 2027 cycle closed on 31 October 2026 with no extension. The next cycle has opened in September in recent years.",
+      "next": "The 2027 cycle closed on 31 October 2026 with no extensions. Funding outcomes are expected in December 2026. The next cycle has opened in September in recent years.",
       "step": "Gather ID, household income proof and the consent form before the next window opens.",
       "link": "https://www.nsfas.org.za",
-      "checked": "2026-11-05",
+      "checked": "2026-11-21",
       "added": "2026-11-05"
     }
   ]
