@@ -1,0 +1,390 @@
+{
+  "scanned": "2026-11-05",
+  "items": [
+    {
+      "id": "funza-returning",
+      "title": "Funza Lushaka Bursary: returning bursars",
+      "type": "Bursary",
+      "cat": [
+        "study"
+      ],
+      "who": [
+        "student"
+      ],
+      "by": "Department of Basic Education",
+      "elig": "Current Funza Lushaka bursars who need funding for 2027. You must reapply every year.",
+      "get": "Teaching-degree costs for another year. You teach one year in a public school for each year funded.",
+      "open": "2026-10-01",
+      "close": "2026-11-30",
+      "diff": "Low",
+      "conf": "High",
+      "step": "Log in at eservices.gov.za and complete the re-application before 30 November.",
+      "link": "https://www.education.gov.za/Programmes/FunzaLushaka.aspx",
+      "note": "New applicants have until 31 January 2027 (see the next listing).",
+      "tags": [
+        "value"
+      ],
+      "checked": "2026-11-05",
+      "added": "2026-11-05"
+    },
+    {
+      "id": "funza-new",
+      "title": "Funza Lushaka Bursary: new applicants",
+      "type": "Bursary",
+      "cat": [
+        "study"
+      ],
+      "who": [
+        "learner",
+        "student"
+      ],
+      "by": "Department of Basic Education",
+      "elig": "South Africans studying or planning to study a BEd or PGCE at a public university, in priority teaching subjects.",
+      "get": "Full bursary for teacher training. You teach one year in a public school for each year funded.",
+      "open": "2026-10-01",
+      "close": "2027-01-31",
+      "diff": "Medium",
+      "conf": "High",
+      "step": "Apply for university admission first, then apply online at eservices.gov.za.",
+      "link": "https://www.education.gov.za/Programmes/FunzaLushaka.aspx",
+      "tags": [
+        "value"
+      ],
+      "checked": "2026-11-05",
+      "added": "2026-11-05"
+    },
+    {
+      "id": "emfuleni-bursary",
+      "title": "Emfuleni Mayoral Bursary 2027",
+      "type": "Bursary",
+      "cat": [
+        "study"
+      ],
+      "who": [
+        "learner"
+      ],
+      "prov": "Gauteng",
+      "by": "Emfuleni Local Municipality (Vanderbijlpark, Vereeniging, Sebokeng, Evaton, Sharpeville)",
+      "elig": "Grade 12 learners living in Emfuleni, starting first-year full-time study in 2027. Proof of address is needed, such as a certified municipal bill.",
+      "get": "Tuition, books and a laptop. Accommodation and meals for selected students only.",
+      "open": "2026-10-01",
+      "close": "2026-11-30",
+      "diff": "Medium",
+      "conf": "Medium",
+      "step": "Collect a form at a municipal office or public library (07:45 to 16:15) or download it from the municipal website. Enquiries: 084 686 4418.",
+      "link": "https://www.emfuleni.gov.za",
+      "note": "Reported by education news sites that cite the municipality’s announcement and contacts. Confirm the form on the municipal website.",
+      "tags": [
+        "gem"
+      ],
+      "checked": "2026-11-05",
+      "added": "2026-11-05"
+    },
+    {
+      "id": "nyda-grant",
+      "title": "NYDA Grant Programme",
+      "type": "Grant",
+      "cat": [
+        "business"
+      ],
+      "who": [
+        "business",
+        "jobseeker"
+      ],
+      "by": "National Youth Development Agency",
+      "elig": "South African citizens aged 18 to 35 with a youth-owned business or co-operative, from idea stage to growth.",
+      "get": "Non-repayable grants from R1 000 to R200 000 (up to R250 000 in total for agriculture and technology co-operatives), plus mentorship.",
+      "rolling": true,
+      "diff": "Medium",
+      "conf": "High",
+      "needs": "ID, business plan, CIPC registration for formal businesses, a two-year commitment to NYDA mentorship.",
+      "step": "Register on the NYDA online portal or visit a branch. Call centre: 0800 52 52 52.",
+      "link": "https://www.nyda.gov.za",
+      "tags": [
+        "value"
+      ],
+      "checked": "2026-11-05",
+      "added": "2026-11-05"
+    },
+    {
+      "id": "nyda-voucher",
+      "title": "NYDA Voucher Programme",
+      "type": "Business support",
+      "cat": [
+        "business"
+      ],
+      "who": [
+        "business"
+      ],
+      "by": "National Youth Development Agency",
+      "elig": "Young entrepreneurs aged 18 to 35.",
+      "get": "Business services worth R6 600 to R19 800 from an NYDA-accredited provider, such as bookkeeping, a business plan or marketing.",
+      "rolling": true,
+      "diff": "Low",
+      "conf": "High",
+      "step": "Ask for the voucher programme when you register on the NYDA portal or at a branch.",
+      "link": "https://www.nyda.gov.za",
+      "tags": [
+        "gem"
+      ],
+      "checked": "2026-11-05",
+      "added": "2026-11-05"
+    },
+    {
+      "id": "sayouth",
+      "title": "SAYouth: jobs, learnerships and youth employment programmes",
+      "type": "Jobs and learnerships",
+      "cat": [
+        "work"
+      ],
+      "who": [
+        "jobseeker",
+        "student"
+      ],
+      "by": "Presidential Youth Employment Intervention",
+      "elig": "South Africans aged 18 to 34 who are not working or studying.",
+      "get": "One profile that matches you to entry-level jobs and learnerships. Government school-assistant programmes recruit only through this platform.",
+      "rolling": true,
+      "diff": "Low",
+      "conf": "High",
+      "step": "Go to sayouth.mobi (free of data on major networks), register with your ID and cell number and complete your profile in full. Helpline: 0800 727 272.",
+      "link": "https://sayouth.mobi",
+      "note": "The next phase of the Basic Education Employment Initiative had not been announced when we last checked. Ignore posts that say it is open unless they link to sayouth.mobi.",
+      "tags": [
+        "gem"
+      ],
+      "checked": "2026-11-05",
+      "added": "2026-11-05"
+    },
+    {
+      "id": "sedfa",
+      "title": "SEDFA small business finance and support",
+      "type": "Loan and support",
+      "cat": [
+        "business"
+      ],
+      "who": [
+        "business",
+        "org"
+      ],
+      "by": "Small Enterprise Development and Finance Agency (formerly SEFA and SEDA)",
+      "elig": "South African-owned small businesses and co-operatives, usually registered with CIPC.",
+      "get": "Loans, credit guarantees, some blended finance with a grant portion, and free business development support. Most finance must be repaid.",
+      "rolling": true,
+      "diff": "Medium",
+      "conf": "High",
+      "needs": "CIPC registration, tax compliance, bank statements, a business plan.",
+      "step": "Start with business development support at a SEDFA branch to strengthen your application, then apply on the SEDFA website.",
+      "link": "https://www.sedfa.org.za",
+      "checked": "2026-11-05",
+      "added": "2026-11-05"
+    },
+    {
+      "id": "spaza",
+      "title": "Spaza Shop Support Fund",
+      "type": "Blended finance",
+      "cat": [
+        "business"
+      ],
+      "who": [
+        "business"
+      ],
+      "by": "Department of Small Business Development, through SEDFA and the National Empowerment Fund",
+      "elig": "South African-owned spaza shops and township retailers.",
+      "get": "Stock, equipment and compliance support through a R500 million fund that combines grants and concessional loans.",
+      "rolling": true,
+      "diff": "Medium",
+      "conf": "High",
+      "needs": "South African ownership, a trading permit or business licence, CIPC registration. Licensing has been the main reason applications stall.",
+      "step": "Sort out your trading licence with your municipality first, then apply through SEDFA or the NEF.",
+      "link": "https://www.sedfa.org.za",
+      "tags": [
+        "gem"
+      ],
+      "checked": "2026-11-05",
+      "added": "2026-11-05"
+    },
+    {
+      "id": "etenders",
+      "title": "Government tenders: eTender Portal and Central Supplier Database",
+      "type": "Tender",
+      "cat": [
+        "business"
+      ],
+      "who": [
+        "business",
+        "org"
+      ],
+      "by": "National Treasury",
+      "elig": "Registered businesses, NPOs and co-operatives. Small and youth-owned firms can bid, but must meet compliance rules.",
+      "get": "Contracts to supply goods and services to national, provincial and municipal government and state-owned entities.",
+      "rolling": true,
+      "diff": "High",
+      "conf": "High",
+      "needs": "Central Supplier Database (CSD) registration, valid tax compliance status, B-BBEE certificate or affidavit, CIDB grading for construction work.",
+      "step": "Register on the CSD first; it is free. Then filter the eTender Portal by province and category, and check your municipality’s supply chain notices for smaller quotations.",
+      "link": "https://www.etenders.gov.za",
+      "note": "Most small contracts are quotations under R1 million advertised by municipalities and provincial departments, not national tenders.",
+      "checked": "2026-11-05",
+      "added": "2026-11-05"
+    },
+    {
+      "id": "erasmus",
+      "title": "Erasmus Mundus Joint Master’s scholarships",
+      "type": "Scholarship",
+      "cat": [
+        "abroad",
+        "study"
+      ],
+      "who": [
+        "student"
+      ],
+      "by": "European Union (Erasmus+)",
+      "elig": "Graduates of any nationality with a bachelor’s degree. Each programme sets its own requirements.",
+      "get": "Full scholarship for a two-year master’s across several European universities: fees, travel and a monthly allowance of about €1 400.",
+      "close": "2027-01-15",
+      "estimate": true,
+      "closeText": "Most close between December 2026 and February 2027",
+      "diff": "High",
+      "conf": "High",
+      "step": "Browse the official catalogue, shortlist up to three programmes and check each programme’s own deadline.",
+      "link": "https://erasmus-plus.ec.europa.eu/opportunities/opportunities-for-individuals/students/erasmus-mundus-joint-masters",
+      "note": "There is no single deadline; each programme sets its own. The date shown is typical.",
+      "tags": [
+        "value"
+      ],
+      "checked": "2026-11-05",
+      "added": "2026-11-05"
+    },
+    {
+      "id": "hungaricum",
+      "title": "Stipendium Hungaricum 2027/28",
+      "type": "Scholarship",
+      "cat": [
+        "abroad",
+        "study"
+      ],
+      "who": [
+        "learner",
+        "student"
+      ],
+      "by": "Government of Hungary, administered by Tempus Public Foundation",
+      "elig": "Citizens of partner countries applying for bachelor’s, master’s or PhD study in Hungary.",
+      "get": "Free tuition, a monthly stipend, an accommodation contribution and medical insurance.",
+      "expected": true,
+      "close": "2027-01-15",
+      "diff": "High",
+      "conf": "Medium",
+      "step": "Watch stipendiumhungaricum.hu for the 2027/28 call. Check that South Africa is on the partner list and which body nominates South African applicants.",
+      "link": "https://stipendiumhungaricum.hu",
+      "note": "The 2027/28 call had not been published when we last checked. Dates are based on previous years.",
+      "checked": "2026-11-05",
+      "added": "2026-11-05"
+    },
+    {
+      "id": "turkiye",
+      "title": "Türkiye Scholarships (Türkiye Bursları) 2027",
+      "type": "Scholarship",
+      "cat": [
+        "abroad",
+        "study"
+      ],
+      "who": [
+        "learner",
+        "student"
+      ],
+      "by": "Government of Türkiye (YTB)",
+      "elig": "International students: under 21 for bachelor’s, under 30 for master’s, under 35 for PhD.",
+      "get": "University placement, tuition, monthly stipend, accommodation, flights, health insurance and a one-year Turkish language course.",
+      "expected": true,
+      "open": "2027-01-10",
+      "close": "2027-02-20",
+      "diff": "High",
+      "conf": "Medium",
+      "step": "Prepare transcripts and a statement of purpose now. Apply only on turkiyeburslari.gov.tr; no agents are authorised to apply for you.",
+      "link": "https://www.turkiyeburslari.gov.tr",
+      "note": "Dates follow the official annual calendar; the 2027 notice is usually posted in late December.",
+      "tags": [
+        "value"
+      ],
+      "checked": "2026-11-05",
+      "added": "2026-11-05"
+    },
+    {
+      "id": "nsfas",
+      "title": "NSFAS bursary",
+      "type": "Bursary",
+      "cat": [
+        "study"
+      ],
+      "who": [
+        "learner",
+        "student"
+      ],
+      "by": "National Student Financial Aid Scheme",
+      "elig": "South Africans from households earning R350 000 or less a year, at public universities and TVET colleges.",
+      "get": "Tuition, accommodation, transport and learning materials.",
+      "close": "2026-10-31",
+      "diff": "Medium",
+      "conf": "High",
+      "next": "The 2027 cycle closed on 31 October 2026 with no extension. The next cycle has opened in September in recent years.",
+      "step": "Gather ID, household income proof and the consent form before the next window opens.",
+      "link": "https://www.nsfas.org.za",
+      "checked": "2026-11-05",
+      "added": "2026-11-05"
+    },
+    {
+      "id": "chevening",
+      "title": "Chevening Scholarships",
+      "type": "Scholarship",
+      "cat": [
+        "abroad",
+        "study"
+      ],
+      "who": [
+        "student"
+      ],
+      "by": "UK Foreign, Commonwealth and Development Office",
+      "elig": "Graduates with at least two years’ work experience from eligible countries, including South Africa.",
+      "get": "Fully funded one-year master’s in the UK: fees, living allowance and flights.",
+      "close": "2026-10-06",
+      "diff": "High",
+      "conf": "High",
+      "next": "The 2027/28 round closed on 6 October 2026. The next round is expected to open in August 2027.",
+      "step": "Use the year to choose three UK courses and draft your four essays.",
+      "link": "https://www.chevening.org",
+      "tags": [
+        "value"
+      ],
+      "checked": "2026-11-05",
+      "added": "2026-11-05"
+    },
+    {
+      "id": "mwf",
+      "title": "Mandela Washington Fellowship",
+      "type": "Exchange",
+      "cat": [
+        "abroad"
+      ],
+      "who": [
+        "student",
+        "business",
+        "org"
+      ],
+      "by": "US Department of State",
+      "elig": "Young African leaders aged 25 to 35 (exceptional applicants from 21) living in eligible countries.",
+      "get": "Six-week fully funded leadership institute at a US university.",
+      "close": "2026-10-13",
+      "diff": "High",
+      "conf": "High",
+      "next": "The 2027 round closed on 13 October 2026. Recent rounds have opened in September.",
+      "step": "Build a record of community or business leadership you can describe with results.",
+      "link": "https://www.mandelawashingtonfellowship.org",
+      "tags": [
+        "value"
+      ],
+      "checked": "2026-11-05",
+      "added": "2026-11-05"
+    }
+  ]
+}
