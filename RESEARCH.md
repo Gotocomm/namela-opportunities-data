@@ -66,3 +66,4 @@ Priority order: national programmes open to all South Africans, then the Free St
 | `tags` | no | `value` (high value) and/or `gem` (less publicised). |
 | `checked` | yes | Date the item was last verified against its official source. |
 | `added` | no | Date the item was first added. |
+| `archived` | no | In `archive.json` only: date the item was moved there. |

@@ -11,7 +11,7 @@ The verified list of open bursaries, scholarships, grants, learnerships and busi
 
 1. Every morning a scheduled research task checks each listing against its official source, archives closed ones and adds newly announced opportunities, following `RESEARCH.md`.
 2. It validates the file and pushes it here.
-3. The website downloads this file once a day, checks it again, and keeps the previous version if anything is wrong.
+3. The website checks for a new version every hour, validates it again, and keeps the previous version if anything is wrong. Every visitor sees the same updated list.
 
 Government tenders are separate: the website pulls them every hour directly from National Treasury's eTenders feed.
 
