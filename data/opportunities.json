@@ -1,5 +1,5 @@
 {
-  "scanned": "2026-11-21",
+  "scanned": "2026-11-23",
   "items": [
     {
       "id": "funza-returning",
@@ -24,7 +24,7 @@
       "tags": [
         "value"
       ],
-      "checked": "2026-11-21",
+      "checked": "2026-11-23",
       "added": "2026-11-05"
     },
     {
@@ -50,7 +50,7 @@
       "tags": [
         "value"
       ],
-      "checked": "2026-11-21",
+      "checked": "2026-11-23",
       "added": "2026-11-05"
     },
     {
@@ -276,10 +276,10 @@
       "close": "2027-01-15",
       "diff": "High",
       "conf": "Medium",
-      "step": "Watch stipendiumhungaricum.hu for the 2027/28 call. Check that South Africa is on the partner list and which body nominates South African applicants.",
+      "step": "Watch stipendiumhungaricum.hu for the 2027/28 call. South Africa is on the partner list; check which study fields are offered to South Africans and who nominates them.",
       "link": "https://stipendiumhungaricum.hu",
-      "note": "The 2027/28 call had not been published when we last checked. Dates are based on previous years.",
-      "checked": "2026-11-21",
+      "note": "The 2027/28 call had not been published when we last checked. The 2026/27 deadline was 15 January 2026, so dates are based on that.",
+      "checked": "2026-11-23",
       "added": "2026-11-05"
     },
     {
@@ -331,7 +331,7 @@
       "next": "The 2027 cycle closed on 31 October 2026 with no extensions. Funding outcomes are expected in December 2026. The next cycle has opened in September in recent years.",
       "step": "Gather ID, household income proof and the consent form before the next window opens.",
       "link": "https://www.nsfas.org.za",
-      "checked": "2026-11-21",
+      "checked": "2026-11-23",
       "added": "2026-11-05"
     }
   ]
