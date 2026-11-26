@@ -1,5 +1,5 @@
 {
-  "scanned": "2026-11-25",
+  "scanned": "2026-11-26",
   "items": [
     {
       "id": "funza-returning",
@@ -20,11 +20,11 @@
       "conf": "High",
       "step": "Log in at eservices.gov.za and complete the re-application before 30 November.",
       "link": "https://www.education.gov.za/Programmes/FunzaLushaka.aspx",
-      "note": "New applicants have until 31 January 2027 (see the next listing).",
+      "note": "Closes on 30 November. New applicants have until 31 January 2027 (see the next listing). Call centre: 0800 202 933.",
       "tags": [
         "value"
       ],
-      "checked": "2026-11-23",
+      "checked": "2026-11-26",
       "added": "2026-11-05"
     },
     {
@@ -50,7 +50,7 @@
       "tags": [
         "value"
       ],
-      "checked": "2026-11-23",
+      "checked": "2026-11-26",
       "added": "2026-11-05"
     },
     {
@@ -148,13 +148,13 @@
       "rolling": true,
       "diff": "Low",
       "conf": "High",
-      "step": "Go to sayouth.mobi (free of data on major networks), register with your ID and cell number and complete your profile in full. Helpline: 0800 727 272.",
+      "step": "Go to sayouth.mobi (free of data on major networks), register with your ID and cell number and complete your profile in full. Free helpline: 0800 72 72 72, weekdays 09:00 to 16:30.",
       "link": "https://sayouth.mobi",
       "note": "The next phase of the Basic Education Employment Initiative had not been announced when we last checked. Ignore posts that say it is open unless they link to sayouth.mobi.",
       "tags": [
         "gem"
       ],
-      "checked": "2026-11-21",
+      "checked": "2026-11-26",
       "added": "2026-11-05"
     },
     {
@@ -196,14 +196,16 @@
       "rolling": true,
       "diff": "Medium",
       "conf": "High",
-      "needs": "South African ownership, a trading permit or business licence, CIPC registration. Licensing has been the main reason applications stall.",
-      "step": "Sort out your trading licence with your municipality first, then apply through SEDFA or the NEF.",
+      "needs": "South African citizenship, a municipal trading permit or business licence, SARS registration (or within six months), ID, proof of address and a bank confirmation letter. CIPC registration is needed for funding above R80 000.",
+      "step": "Sort out your trading permit with your municipality first, then apply online on the SEDFA SMME portal at systemsnew.sefa.org.za/SMMEPortal.",
       "link": "https://www.sedfa.org.za",
       "tags": [
         "gem"
       ],
-      "checked": "2026-11-21",
-      "added": "2026-11-05"
+      "checked": "2026-11-26",
+      "added": "2026-11-05",
+      "source": "https://www.sanews.gov.za/south-africa/how-apply-spaza-shop-funding-step-step-guide",
+      "note": "Priority goes to owners aged 18 to 35, women and people with disabilities. Applying is free."
     },
     {
       "id": "etenders",
@@ -241,20 +243,20 @@
         "student"
       ],
       "by": "European Union (Erasmus+)",
-      "elig": "Graduates of any nationality with a bachelor’s degree. Each programme sets its own requirements.",
-      "get": "Full scholarship for a two-year master’s across several European universities: fees, travel and a monthly allowance of about €1 400.",
+      "elig": "Students of any nationality with a bachelor’s degree, or in the final year of one. Each programme sets its own requirements.",
+      "get": "Full scholarship for the best-ranked students on a one or two year master’s across several European universities. It covers participation costs and contributes to travel, visa and living costs.",
       "close": "2027-01-15",
       "estimate": true,
-      "closeText": "Most close between December 2026 and February 2027",
+      "closeText": "Most applications are due between October 2026 and January 2027",
       "diff": "High",
       "conf": "High",
-      "step": "Browse the official catalogue, shortlist up to three programmes and check each programme’s own deadline.",
+      "step": "Browse the official catalogue, shortlist up to three programmes and check each programme’s own deadline and scholarship rules.",
       "link": "https://erasmus-plus.ec.europa.eu/opportunities/opportunities-for-individuals/students/erasmus-mundus-joint-masters",
       "note": "There is no single deadline; each programme sets its own. The date shown is typical.",
       "tags": [
         "value"
       ],
-      "checked": "2026-11-21",
+      "checked": "2026-11-26",
       "added": "2026-11-05"
     },
     {
@@ -278,8 +280,8 @@
       "conf": "Medium",
       "step": "Watch stipendiumhungaricum.hu for the 2027/28 call. South Africa is on the partner list; check which study fields are offered to South Africans and who nominates them.",
       "link": "https://stipendiumhungaricum.hu",
-      "note": "The 2027/28 call had not been published when we last checked. The 2026/27 deadline was 15 January 2026, so dates are based on that.",
-      "checked": "2026-11-23",
+      "note": "The official site still showed only the 2026/27 call when we last checked. The 2026/27 deadline was 15 January 2026, so dates are based on that.",
+      "checked": "2026-11-26",
       "added": "2026-11-05"
     },
     {
@@ -308,7 +310,7 @@
       "tags": [
         "value"
       ],
-      "checked": "2026-11-21",
+      "checked": "2026-11-26",
       "added": "2026-11-05"
     },
     {
@@ -328,11 +330,40 @@
       "close": "2026-10-31",
       "diff": "Medium",
       "conf": "High",
-      "next": "The 2027 cycle closed on 31 October 2026 with no extensions. Funding outcomes are expected in December 2026. The next cycle has opened in September in recent years.",
+      "next": "The 2027 cycle closed on 31 October 2026 with no extensions. Watch nsfas.org.za for funding outcomes. The next cycle has opened in September in recent years.",
       "step": "Gather ID, household income proof and the consent form before the next window opens.",
       "link": "https://www.nsfas.org.za",
-      "checked": "2026-11-23",
-      "added": "2026-11-05"
+      "checked": "2026-11-26",
+      "added": "2026-11-05",
+      "source": "https://www.gov.za/news/media-statements/nsfas-records-over-1-million-applications-2027-funding-cycle-board-joins",
+      "note": "Check your status only on nsfas.org.za or the official NSFAS app. Ignore social media posts that ask for money or your password."
+    },
+    {
+      "id": "mandela-rhodes-2028",
+      "title": "Mandela Rhodes Scholarship 2028",
+      "type": "Scholarship",
+      "cat": [
+        "study"
+      ],
+      "who": [
+        "student"
+      ],
+      "by": "Mandela Rhodes Foundation",
+      "elig": "Citizens of an African country aged 19 to 29 in the year of applying, with an undergraduate degree above 70% (or upper second class) by 1 January 2028, for Honours or Master’s study at a South African university.",
+      "get": "Tuition and registration fees, study materials, accommodation and meals, medical aid, personal allowances and a leadership development programme.",
+      "open": "2027-03-09",
+      "close": "2027-04-14",
+      "diff": "High",
+      "conf": "High",
+      "needs": "Academic transcripts and three recommendation letters in English, uploaded by your referees.",
+      "step": "Line up three referees now and plan your Honours or Master’s application. Apply only on mandelarhodes.org from 9 March 2027.",
+      "link": "https://www.mandelarhodes.org/scholarship/apply/",
+      "note": "Applications close at 23:59 on 14 April 2027. MBAs, online and distance study are not funded.",
+      "tags": [
+        "value"
+      ],
+      "checked": "2026-11-26",
+      "added": "2026-11-26"
     }
   ]
 }
